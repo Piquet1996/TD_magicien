@@ -6,10 +6,13 @@ Voici le **TD sorcier** dans toute sa splendeur !!
 Vous y trouverez:
 
 *Des nains de jardins
+
 *Des gnomes de jardins
 
 *Des sorciers
-Des magiciens
+
+*Des magiciens
+
 
 *Des montres
 
